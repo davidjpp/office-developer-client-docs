@@ -34,7 +34,7 @@ If the shape is not a list member, the LISTSHEETREF function returns #REF!.
   
 ## Example
 
-LISTSHEETREF(1)!Height 
+LISTSHEETREF()!Height 
   
 Returns the value in the Height cell of the list container shape that contains the shape. 
   

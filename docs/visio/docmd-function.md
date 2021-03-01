@@ -30,7 +30,7 @@ Performs the identified command.
    
 ## Remarks
 
-For a list of commands that are supported with the DOCMD function, see the topic "DoCmd/DOCMD commands" in the Microsoft Visio 2013 Automation Reference. 
+For a list of commands that are supported with the DOCMD function, see the topic "DoCmd/DOCMD commands" in the Microsoft Visio [Desktop] Automation Reference. 
   
 ## Example
 
